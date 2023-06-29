@@ -16,9 +16,16 @@ import contact from "../assets/contact.avif";
 import team1 from "../assets/team1.png";
 import team2 from "../assets/team2.png";
 
+import img1 from "../assets/img1.webp";
+import img2 from "../assets/img2.webp";
+import img3 from "../assets/img3.webp";
+
 
 
 export {
+  img1,
+  img2,
+  img3,
   team1,
     team2,
     contact,

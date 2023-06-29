@@ -39,7 +39,7 @@ function Header() {
                   <Nav.Link href="/about" className="headlink">
                     About
                   </Nav.Link>
-                  <Nav.Link href="#action2" className="headlink">
+                  <Nav.Link href="/reservation" className="headlink">
                     Reservation{" "}
                   </Nav.Link>
                   <Nav.Link href="#action2" className="headlink">
@@ -75,7 +75,7 @@ function Header() {
                       borderRadius: "50px",
                       backgroundColor: "teal",
                       color: "white",
-                      padding:"10px"
+                      padding: "10px",
                     }}
                   >
                     Contact Us
